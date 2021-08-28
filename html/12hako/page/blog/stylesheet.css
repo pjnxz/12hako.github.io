@@ -1,12 +1,12 @@
 /*---op---*/
   @font-face {
     font-family: JNRfont;
-    src: url(../../../font/JNRfont_n/JNRfont_n.ttf) format("truetype");
+    src: url(https://12hako.github.io/html/font/JNRfont_n/JNRfont_n.ttf) format("truetype");
   }
   
   @font-face {
     font-family: TanukiMagic;
-    src: url(../../../font/TanukiMagic_1_22/TanukiMagic.ttf) format("truetype");
+    src: url(https://12hako.github.io/html/font/TanukiMagic_1_22/TanukiMagic.ttf) format("truetype");
   }
   
   * {
